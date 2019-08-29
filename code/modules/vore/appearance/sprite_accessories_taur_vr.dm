@@ -215,6 +215,16 @@
 	icon_state = "naga_s"
 	extra_overlay = "naga_markings"
 
+/datum/sprite_accessory/tail/taur/naga/nagaalternate
+	name = "Naga alternate (Taur)"
+	icon_state = "naga_alternate"
+	suit_sprites = 'icons/mob/taursuits_naga_vr.dmi'
+
+/datum/sprite_accessory/tail/taur/naga/nagaalternate_2c
+    name = "Naga alternate dual-color (Taur)"
+    icon_state = "naga_alternate"
+    extra_overlay = "naga_alternate_markings"
+
 /datum/sprite_accessory/tail/taur/horse
 	name = "Horse (Taur)"
 	icon_state = "horse_s"
